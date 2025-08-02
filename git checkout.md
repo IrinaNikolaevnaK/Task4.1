@@ -1,11 +1,11 @@
-*[К содержанию](readme.md)*-------------------------------- *[Следующая страница](git%20status.md)*
+*[К содержанию](readme.md)*-------------------------------- *[Git status](git%20status.md)*
 
-## **git checkout -b**
+## **Git checkout -b**
 
-## git checkout -b <название_ветки>
+## Git checkout -b <название_ветки>
 
 *Чтобы создать новую ветку и переключится на нее, используйте команду:*
 
 ```bash-
-git checkout -b.
+Git checkout -b.
 ```

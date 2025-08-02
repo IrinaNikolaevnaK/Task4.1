@@ -1,11 +1,11 @@
-*[К содержанию](readme.md)*-------------------------------- *[Следующая страница](git%20remote%20add%20origin.md)*
+*[К содержанию](readme.md)*-------------------------------- *[Git remote add origin](git%20remote%20add%20origin.md)*
 
-## **git commit -m**
+## **Git commit -m**
 
-## git commit -m "Описание изменений"
+## Git commit -m "Описание изменений"
 
 *Чтобы cоздать коммит, используйте команду:*
 
 ```bash-
-git commit -m
+Git commit -m
 ```

@@ -1,11 +1,11 @@
-*[К содержанию](readme.md)*-------------------------------- *[Следующая страница](git%20checkout%20-b.md)*
+*[К содержанию](readme.md)*-------------------------------- *[Git checkout -b](git%20checkout%20-b.md)*
 
-## **git push -u**
+## **Git push -u**
 
-## git push -u origin main
+## Git push -u origin main
 
 *Чтобы отправить изменения на удаленный репозиторий, используйте команду:*
 
 ```bash-
-git push -u.
+Git push -u.
 ```

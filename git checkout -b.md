@@ -1,11 +1,11 @@
-*[К содержанию](readme.md)*-------------------------------- *[Следующая страница](git%20log.md)*
+*[К содержанию](readme.md)*-------------------------------- *[Git log](git%20log.md)*
 
-## **git remote add origin**
+## **Git remote add origin**
 
-## git remote add origin <url_репозитория>
+## Git remote add origin <url_репозитория>
 
 *Чтобы добавить удаленного репозитория, используйте команду:*
 
 ```bash-
-git remote add origin .
+Git remote add origin .
 ```
