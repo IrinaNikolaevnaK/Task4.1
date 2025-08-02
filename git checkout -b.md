@@ -1,11 +1,11 @@
 *[К содержанию](readme.md)*-------------------------------- *[Git log](git%20log.md)*
 
-## **Git remote add origin**
+## **Git checkout -b**
 
-## Git remote add origin <url_репозитория>
+## Git checkout -b <название_ветки>
 
-*Чтобы добавить удаленного репозитория, используйте команду:*
+*Чтобы создать новую ветку и переключится на нее, используйте команду:*
 
 ```bash-
-Git remote add origin .
+Git checkout -b.
 ```
