@@ -1,4 +1,4 @@
-*[К содержанию](readme.md)*-------------------------------- *[Git checkout -b](git%20checkout%20-b.md)*
+*[К содержанию](readme.md)*-------------------------------- *[Git checkout -b](/git%20checkout%20-b.md)*
 
 ## **Git push -u**
 
